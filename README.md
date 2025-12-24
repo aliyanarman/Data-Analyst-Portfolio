@@ -1,4 +1,4 @@
-# Business Intelligence Portfolio
+# Data Analyst Portfolio
 
 ## About
 My name is Aliyan, I am a business analyst proficient in SQL, Python, PowerBI, and Excel with strong understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, building dashboards/reports, data storytelling.
