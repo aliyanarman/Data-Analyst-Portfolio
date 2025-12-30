@@ -14,3 +14,5 @@ In this project I am designing SQL queries to analyze Instagram's data for marke
 A project where I extracts insights to analyze baseball player performance, team statistics, and salary data to support strategic decision-making in player recruitment, budget allocation, and performance evaluation.
 
 ## Python (Pandas)
+### [Staff Data Cleanup](https://github.com/aliyanarman/Organization-Data-Cleanup/blob/main/README.md)
+Data Cleaning of raw employee data of a company using pandas library inside jupyter notebooks. The goal is to understand the dataset structure, identify anomalies, and generate meaningful business-ready insights before modeling.
