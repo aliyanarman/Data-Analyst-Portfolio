@@ -15,4 +15,4 @@ A project where I extracts insights to analyze baseball player performance, team
 
 ## Python (Pandas)
 ### [Staff Data Cleanup](https://github.com/aliyanarman/Organization-Data-Cleanup/blob/main/README.md)
-Data cleaning of raw employee data of a company using pandas library inside jupyter notebooks. The goal is to understand the dataset structure, identify anomalies, and generate meaningful business-ready insights before modeling.
+Data cleaning of raw employee data of a company using pandas library inside jupyter notebooks. The goal is to understand the dataset structure, identify anomalies, and generate meaningful business-ready insights before modeling. The notebook can be accessed by clicking [here.](https://github.com/aliyanarman/Organization-Data-Cleanup/blob/main/Analysis/EDA%20day%201%20(1).ipynb)
