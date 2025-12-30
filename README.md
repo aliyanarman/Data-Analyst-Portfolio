@@ -5,7 +5,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## About
-My name is Aliyan, I am a data analyst proficient in SQL, Python, Excel and PowerBI with strong understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, building dashboards/reports, data storytelling.
+My name is Aliyan, I am a data analyst proficient in SQL, Python, Excel and PowerBI with strong understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, business intelligence.
 
 In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. These projects demonstrate my ability to organize, analyze, and present data in a clear way, such that stakeholders make important decisions easily.
 
