@@ -14,7 +14,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 In this project I am analyzing Massachusetts public school data including expenditures, graduation rates, and district performance metrics to support decision-making for parents, educators, and policymakers. The analysis workbook can be accessed by clicking [here.](https://github.com/aliyanarman/Education-System-Analysis/blob/main/Analysis/Schools_Analysis.sql)
 ### [Instagram Analysis](https://github.com/aliyanarman/Instagram-DB-Analysis/tree/main)
 In this project I am designing SQL queries to analyze Instagram's data for marketing insights and investor metrics. The project demonstrates practical data analysis techniques for user engagement, content performance, and platform health monitoring.  The analysis workbook can be accessed by clicking [here.](https://github.com/aliyanarman/Instagram-DB-Analysis/blob/main/analysis/instagram_analysis.sql)
-### [Baseball Analysis](https://github.com/aliyanarman/Baseball-Database-Analytics/tree/main)
+### [Team Analysis (Baseball)](https://github.com/aliyanarman/Baseball-Database-Analytics/tree/main)
 A project where I extracts insights to analyze baseball player performance, team statistics, and salary data to support strategic decision-making in player recruitment, budget allocation, and performance evaluation. The analysis workbook can be accessed by clicking [here.](https://github.com/aliyanarman/Baseball-Database-Analytics/blob/main/Analysis/baseball.sql)
 
 ## Python (Pandas)
